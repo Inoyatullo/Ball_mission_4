@@ -1,0 +1,27 @@
+{
+  "name": "project_12.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inoyatullo/project_12.1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Inoyatullo/project_12.1/issues"
+  },
+  "homepage": "https://github.com/Inoyatullo/project_12.1#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-rename": "^2.0.0"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
